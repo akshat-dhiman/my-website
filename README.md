@@ -9,3 +9,5 @@ I will continue to watch new Anime and update them on this blog of mine.:wink:
 ## Development:
 The website has been developed on *HTML5*, *CSS3* and *JavaScript*. A little bit of *PHP* is used to make the contact form.<br />
 *Bootstrap* framework is used.
+
+#portfolio #html #html5 #css #css3 #bootstrap
