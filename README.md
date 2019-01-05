@@ -1,5 +1,5 @@
 # Personal Portfolio
-It's a website about me.The website contains my personal information and other interests.<br />
+It's a website about me.The website contains my educational background,achievements, resume, projects and other interests.<br />
 It has my *Educational background* and my most valuable *Achievements* so far. The website gives an insight to my interests and things I do to spend my free time. There is an abstract information about the *Club* which I am currently a part of in my university.<br />
 Users can contact me through the website.<br />
 There is also an interesting *blog* about *Anime* which is linked to the first portfolio page. 
